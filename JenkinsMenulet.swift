@@ -1094,12 +1094,6 @@ extension JenkinsMenulet: NSTableViewDataSource
     }
 }
 
-// Notes on my Linux VM Jenkins set up running on MacPro.
-//
-// http://192.168.61.131:8080/job/Test2/lastBuild
-// gerard
-// 4ed905e750caceed90156be1caf1da2a
-
 
 
 
